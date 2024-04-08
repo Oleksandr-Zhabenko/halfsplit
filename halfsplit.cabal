@@ -16,7 +16,7 @@ license:            MIT
 license-file:       LICENSE
 author:             Oleksandr Zhabenko
 maintainer:         oleksandr.zhabenko@yahoo.com
-bug-tracker:        https://github.com/Oleksandr-Zhabenko/halfsplit/issues
+bug-reports:        https://github.com/Oleksandr-Zhabenko/halfsplit/issues
 
 -- A copyright notice.
 copyright:          Oleksandr Zhabenko
